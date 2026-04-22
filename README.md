@@ -1,6 +1,6 @@
 # CRM Migration Workbench
 
-Internal migration tool for Phase 0. Connects to HubSpot and Pipedrive, proposes AI field mappings via GPT-5.4 mini, lets you review and approve them, then executes the migration.
+Internal migration tool. Connects to HubSpot and Pipedrive, proposes AI field mappings via GPT-5.4 mini, lets you review and approve them, then executes the migration.
 
 ---
 
